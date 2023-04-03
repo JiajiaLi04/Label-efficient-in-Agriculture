@@ -9,7 +9,7 @@
 
 A curated list of awesome **Label-efficient Learning in Agricutlture** papers 🔥🔥🔥. 
 
-Currently maintained by <ins>[Dong Chen](https://scholar.google.com/citations?user=dwvTqeUAAAAJ&hl=en) @ MSU</ins> and <ins>[Jiajia Li](xx) @ MSU</ins>. 
+Currently maintained by <ins>[Jiajia Li](xx) @ MSU</ins> and <ins>[Dong Chen](https://scholar.google.com/citations?user=dwvTqeUAAAAJ&hl=en) @ MSU</ins>. 
 
 
 **<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions** ❤️.
