@@ -180,6 +180,8 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
 
 11. Wu, Yang, and Lihong Xu. **"Crop organ segmentation and disease identification based on weakly supervised deep neural network."** Agronomy 9.11 (2019): 737. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=%22Crop+Organ+Segmentation+and+Disease+Identification+Based+on+Weakly+Supervised+Deep+Neural+Network+%22&btnG=) [[Paper]](https://www.mdpi.com/2073-4395/9/11/737)  ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
+12. Wang, Yinkai, et al. **"Integrated Learning-Based Pest and Disease Detection Method for Tea Leaves."** Forests 14.5 (2023): 1012. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Integrated+Learning-Based+Pest+and+Disease+Detection+Method+for+Tea+Leaves&btnG=)  [[Paper]](https://www.mdpi.com/1999-4907/14/5/1012)
+
 ### 4.2 Weed and crop management
 1. Marszalek, Michael L., et al. **"Self-supervised learning--A way to minimize time and effort for precision agriculture?."** arXiv preprint arXiv:2204.02100 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Self-supervised+learning--A+way+to+minimize+time+and+effort+for+precision+agriculture%3F&btnG=) [[Paper]](https://arxiv.org/abs/2204.02100)  ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
