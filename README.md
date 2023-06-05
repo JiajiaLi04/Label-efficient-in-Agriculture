@@ -182,6 +182,8 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
 
 12. Wang, Yinkai, et al. **"Integrated Learning-Based Pest and Disease Detection Method for Tea Leaves."** Forests 14.5 (2023): 1012. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Integrated+Learning-Based+Pest+and+Disease+Detection+Method+for+Tea+Leaves&btnG=)  [[Paper]](https://www.mdpi.com/1999-4907/14/5/1012)
 
+13. Benfenati, Alessandro, et al. **"Unsupervised deep learning techniques for automatic detection of plant diseases: reducing the need of manual labelling of plant images."** Journal of Mathematics in Industry 13.1 (2023): 1-16. [[Google Scholar]]([https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Integrated+Learning-Based+Pest+and+Disease+Detection+Method+for+Tea+Leaves&btnG=](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Unsupervised+deep+learning+techniques+for+automatic+detection+of+plant+diseases%3A+reducing+the+need+of+manual+labelling+of+plant+images&btnG=))  [[Paper]]([https://www.mdpi.com/1999-4907/14/5/1012](https://mathematicsinindustry.springeropen.com/articles/10.1186/s13362-023-00133-6)) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
+
 ### 4.2 Weed and crop management
 1. Marszalek, Michael L., et al. **"Self-supervised learning--A way to minimize time and effort for precision agriculture?."** arXiv preprint arXiv:2204.02100 (2022). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Self-supervised+learning--A+way+to+minimize+time+and+effort+for+precision+agriculture%3F&btnG=) [[Paper]](https://arxiv.org/abs/2204.02100)  ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
