@@ -120,7 +120,7 @@ The following topics are included: ![](https://img.shields.io/badge/-active--lea
 ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 ![](https://img.shields.io/badge/-unsupervised%20learning-red)
   
-1. Zhou, Zhi-Hua.**"A brief introduction to weakly supervised learning."**  National science review 5.1 (2018): 44-53.  [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+brief+introduction+to+weakly+supervised+learning&btnG=) [[Paper]](https://academic.oup.com/nsr/article/5/1/44/4093912) ![](https://img.shields.io/badge/-active--learning-brightgreen) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)  ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+1. Zhou, Zhi-Hua. **"A brief introduction to weakly supervised learning."**  National science review 5.1 (2018): 44-53.  [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+brief+introduction+to+weakly+supervised+learning&btnG=) [[Paper]](https://academic.oup.com/nsr/article/5/1/44/4093912) ![](https://img.shields.io/badge/-active--learning-brightgreen) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)  ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
 2. Kääriäinen, Matti. **"Active learning in the non-realizable case."** International Conference on Algorithmic Learning Theory. Springer, Berlin, Heidelberg, 2006.  [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Active+learning+in+the+non-realizable+case&btnG=) [[Paper]](https://link.springer.com/chapter/10.1007/11894841_9)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
@@ -143,6 +143,8 @@ The following topics are included: ![](https://img.shields.io/badge/-active--lea
 11. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+survey+of+deep+active+learning&btnG=) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3472291?casa_token=8z8Q0AaEKsgAAAAA:ECSiXZ3Hqo7a4V2g3H99L2zg2X9RcHZtzpuPpwuOSKQCq29pAkYSuFzIRHh2Ix8qYv4UaaNgS7Uc1A)  ![](https://img.shields.io/badge/-active--learning-brightgreen) 
 
 12. Aggarwal, Charu C., et al. **"Active learning: A survey."** Data classification. Chapman and Hall/CRC, 2014. 599-634. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Active+learning%3A+A+survey&btnG=) [[Paper]](https://www.taylorfrancis.com/chapters/edit/10.1201/b17320-27/active-learning-survey-charu-aggarwal-xiangnan-kong-quanquan-gu-jiawei-han-philip-yu)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+13. Chong, Yanwen, et al. **"Graph-based semi-supervised learning: A review."** Neurocomputing 408 (2020): 216-230. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Graph-based+semi-supervised+learning%3A+A+review&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231220304938?casa_token=1qMKCz9EAxYAAAAA:uCWWy2guGQ7C8XUByKSVeSA9wvY1jhpYqKDBYeae6pv5tRBRCCZ3s_mTu7o5TzBf-2YdsZxd0ok) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
 
 ## 3. 🗂️ Taxonomy
@@ -179,9 +181,15 @@ In our paper, we divide the textual instructions into three categories.
 
 6. Zhou, Zhi-Hua. **"Ensemble methods: foundations and algorithms."** CRC press, 2012. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Ensemble+methods%3A+foundations+and+algorithms&btnG=) [[Paper]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Ensemble+methods%3A+foundations+and+algorithms&btnG=)  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
-4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+7. Bennett, Kristin, and Ayhan Demiriz. **"Semi-supervised support vector machines."** Advances in Neural Information processing systems 11 (1998). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Semi-supervised+support+vector+machines&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/1998/file/b710915795b9e9c02cf10d6d2bdb688c-Paper.pdf) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
-4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+8. Ben-David, Shai, et al. **"Learning low density separators."** Artificial Intelligence and Statistics. PMLR, 2009. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Learning+low+density+separators&btnG=) [[Paper]](http://proceedings.mlr.press/v5/ben-david09a/ben-david09a.pdf)  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+9. Li, Yu-Feng, et al. **"Convex and scalable weakly labeled SVMs."** Journal of Machine Learning Research 14.7 (2013). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Convex+and+scalable+weakly+labeled+svms&btnG=) [[Paper]](https://www.jmlr.org/papers/volume14/li13a/li13a.pdf) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+10. Chapelle, Olivier, Vikas Sindhwani, and Sathiya S. Keerthi. **"Optimization techniques for semi-supervised support vector machines."** Journal of Machine Learning Research 9.2 (2008). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Optimization+techniques+for+semi-supervised+support+vector+machines&btnG=) [[Paper]](https://www.jmlr.org/papers/volume9/chapelle08a/chapelle08a.pdf) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+11. Liu, Wei, Jun Wang, and Shih-Fu Chang. **"Robust and scalable graph-based semisupervised learning."** Proceedings of the IEEE 100.9 (2012): 2624-2638. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Robust+and+scalable+graph-based+semisupervised+learning&btnG=) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6235979&casa_token=vp1ZsX-HUWIAAAAA:ANYvFEh5y1bokr2V6DgjMoqUR_HDvIX0LDrg1zO6xxtHhQFMUtz_8WxsuKu1O88F9xDeC-fRZk0&tag=1) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
 4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
