@@ -74,7 +74,7 @@ Please consider citing our paper. 👇👇👇
 - [2. 🎓 Surveys and Tutorials](#2--surveys-and-tutorials)
 - [3. 🗂️ Taxonomy](#3-️-taxonomy)
   - [3.1 Weak Supervision](#31-weak-supervision)
-   - [3.1.1 Active learning](#311-active-learning)
+  -- [3.1.1 Active learning](#311-active-learning)
   - [3.2 No supervision](#32-no-supervision)
 
 - [4. 🤖 Applications](#4--applications)
