@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Awesome Label-efficient Learning in Agricutlture
+# Awesome Label-Efficient Learning in Agricutlture: A Comprehensive Review
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/DongChen06/Label-efficient-in-Agriculture
