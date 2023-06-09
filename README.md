@@ -146,7 +146,7 @@ In our paper, we divide the textual instructions into three categories.
 ### 3.1 Weak Supervision
 
 #### 3.1.1 Active learning
-1. Settles, Burr. **"Active learning literature survey."** University of Wisconsin-Madison Department of Computer Sciences (2009). [[Google Scholar]]([https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Novelty+detection+in+UAV+images+to+identify+emerging+threats+in+eucalyptus+crops&btnG=](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Active+learning+literature+survey&btnG=)) [[Paper]]([https://www.sciencedirect.com/science/article/pii/S0168169922002186?casa_token=ZFhy1QK7aakAAAAA:wI-NrE3CAa8ph4hZ_iuU-qB0hXz6c6Kpn4f5P301ZI7qxFC4R6mxiOOogDMET4qBwo8zhARxUnE](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1))  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+1. Settles, Burr. **"Active learning literature survey."** University of Wisconsin-Madison Department of Computer Sciences (2009). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Active+learning+literature+survey&btnG=) [[Paper]](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
 
 #### 3.1.2 Semi-supervised learning
