@@ -141,19 +141,17 @@ The following topics are included: ![](https://img.shields.io/badge/-active--lea
 
 In our paper, we divide the textual instructions into three categories.
 
-### 3.1 Active Learning
+### 3.1 Weak Supervision
+
+#### 3.1.1 Active learning
+
+#### 3.1.2 Semi-supervised learning
 
 
-### 3.2 Semi-supervised Learning
+
+### 3.2 No supervision
    
 
-### 3.3 Weakly Supervised Learning
-
-   
-### 3.4 Self-supervised Learning   
-
-
-### 3.5 Unsupervised Learning  
 
 
 
