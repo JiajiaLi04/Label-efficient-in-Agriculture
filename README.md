@@ -148,9 +148,29 @@ In our paper, we divide the textual instructions into three categories.
 #### 3.1.1 Active learning
 1. Settles, Burr. **"Active learning literature survey."** University of Wisconsin-Madison Department of Computer Sciences (2009). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Active+learning+literature+survey&btnG=) [[Paper]](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
+2. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+survey+of+deep+active+learning&btnG=) [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3472291?casa_token=8z8Q0AaEKsgAAAAA:ECSiXZ3Hqo7a4V2g3H99L2zg2X9RcHZtzpuPpwuOSKQCq29pAkYSuFzIRHh2Ix8qYv4UaaNgS7Uc1A)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+3. Aggarwal, Charu C., et al. **"Active learning: A survey."** Data classification. Chapman and Hall/CRC, 2014. 599-634. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Active+learning%3A+A+survey&btnG=) [[Paper]](https://www.taylorfrancis.com/chapters/edit/10.1201/b17320-27/active-learning-survey-charu-aggarwal-xiangnan-kong-quanquan-gu-jiawei-han-philip-yu)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+4. Scheffer, Tobias, Christian Decomain, and Stefan Wrobel. **"Active hidden markov models for information extraction."** Advances in Intelligent Data Analysis: 4th International Conference, IDA 2001 Cascais, Portugal, September 13–15, 2001 Proceedings 4. Springer Berlin Heidelberg, 2001. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Active+hidden+markov+models+for+information+extraction&btnG=) [[Paper]](https://link.springer.com/chapter/10.1007/3-540-44816-0_31)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+5. Houlsby, Neil, et al. **"Bayesian active learning for classification and preference learning."** arXiv preprint arXiv:1112.5745 (2011). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Bayesian+active+learning+for+classification+and+preference+learning&btnG=) [[Paper]](https://arxiv.org/pdf/1112.5745.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+6. Gal, Yarin, Riashat Islam, and Zoubin Ghahramani. **"Deep bayesian active learning with image data."**  International conference on machine learning. PMLR, 2017. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+bayesian+active+learning+with+image+data&btnG=) [[Paper]](http://proceedings.mlr.press/v70/gal17a/gal17a.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+7. Gal, Yarin, and Zoubin Ghahramani.  **"Bayesian convolutional neural networks with Bernoulli approximate variational inference."** arXiv preprint arXiv:1506.02158 (2015). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Bayesian+convolutional+neural+networks+with+bernoulli+approximate+variational+inference&btnG=) [[Paper]](https://arxiv.org/pdf/1506.02158.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+8. Haussmann, Manuel, Fred A. Hamprecht, and Melih Kandemir. **"Deep active learning with adaptive acquisition."** arXiv preprint arXiv:1906.11471 (2019). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+active+learning+with+adaptive+acquisition&btnG=) [[Paper]](https://arxiv.org/pdf/1906.11471.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+9. Geifman, Yonatan, and Ran El-Yaniv. **"Deep active learning with a neural architecture search."** Advances in Neural Information Processing Systems 32 (2019). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+active+learning+with+a+neural+architecture+search&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2019/file/b59307fdacf7b2db12ec4bd5ca1caba8-Paper.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
 #### 3.1.2 Semi-supervised learning
 
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
 
 ### 3.2 No supervision
