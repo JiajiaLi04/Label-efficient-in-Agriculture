@@ -146,6 +146,7 @@ The following topics are included: ![](https://img.shields.io/badge/-active--lea
 
 13. Chong, Yanwen, et al. **"Graph-based semi-supervised learning: A review."** Neurocomputing 408 (2020): 216-230. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Graph-based+semi-supervised+learning%3A+A+review&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231220304938?casa_token=1qMKCz9EAxYAAAAA:uCWWy2guGQ7C8XUByKSVeSA9wvY1jhpYqKDBYeae6pv5tRBRCCZ3s_mTu7o5TzBf-2YdsZxd0ok) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
+14. Shen, Wei, et al.  **"A survey on label-efficient deep image segmentation: Bridging the gap between weak supervision and dense prediction. "**  IEEE Transactions on Pattern Analysis and Machine Intelligence (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+survey+on+label-efficient+deep+image+segmentation%3A+Bridging+the+gap+between+weak+supervision+and+dense+prediction&btnG=) [[Paper]](https://arxiv.org/pdf/2207.01223.pdf) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)  ![](https://img.shields.io/badge/-unsupervised%20learning-red) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
 ## 3. 🗂️ Taxonomy
 
@@ -196,6 +197,11 @@ In our paper, we divide the textual instructions into three categories.
 #### 3.1.3 Weakly supervised learning
 4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 ### 3.2 No supervision
    
 
