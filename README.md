@@ -159,20 +159,34 @@ In our paper, we divide the textual instructions into three categories.
 
 3. Gal, Yarin, Riashat Islam, and Zoubin Ghahramani. **"Deep bayesian active learning with image data."**  International conference on machine learning. PMLR, 2017. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+bayesian+active+learning+with+image+data&btnG=) [[Paper]](http://proceedings.mlr.press/v70/gal17a/gal17a.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
-4. Gal, Yarin, and Zoubin Ghahramani.  **"Bayesian convolutional neural networks with Bernoulli approximate variational inference."** arXiv preprint arXiv:1506.02158 (2015). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Bayesian+convolutional+neural+networks+with+bernoulli+approximate+variational+inference&btnG=) [[Paper]](https://arxiv.org/pdf/1506.02158.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+4. Gal, Yarin, and Zoubin Ghahramani.  **"Bayesian convolutional neural networks with Bernoulli approximate variational inference."** arXiv preprint arXiv:1506.02158 (2015). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Bayesian+convolutional+neural+networks+with+bernoulli+approximate+variational+inference&btnG=) [[Paper]](https://arxiv.org/pdf/1506.02158.pdf) ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
-5. Haussmann, Manuel, Fred A. Hamprecht, and Melih Kandemir. **"Deep active learning with adaptive acquisition."** arXiv preprint arXiv:1906.11471 (2019). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+active+learning+with+adaptive+acquisition&btnG=) [[Paper]](https://arxiv.org/pdf/1906.11471.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+5. Haussmann, Manuel, Fred A. Hamprecht, and Melih Kandemir. **"Deep active learning with adaptive acquisition."** arXiv preprint arXiv:1906.11471 (2019). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+active+learning+with+adaptive+acquisition&btnG=) [[Paper]](https://arxiv.org/pdf/1906.11471.pdf)  [[Code]](https://github.com/manuelhaussmann/ral) ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
 6. Geifman, Yonatan, and Ran El-Yaniv. **"Deep active learning with a neural architecture search."** Advances in Neural Information Processing Systems 32 (2019). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+active+learning+with+a+neural+architecture+search&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2019/file/b59307fdacf7b2db12ec4bd5ca1caba8-Paper.pdf)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
 
 #### 3.1.2 Semi-supervised learning
 
-4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+1. Lee, Dong-Hyun.  **"Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks."** Workshop on challenges in representation learning, ICML. Vol. 3. No. 2. 2013. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Pseudo-label%3A+The+simple+and+efficient+semi-supervised+learning+method+for+deep+neural+networks&btnG=) [[Paper]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Pseudo-label%3A+The+simple+and+efficient+semi-supervised+learning+method+for+deep+neural+networks&btnG=) [[Code]](https://github.com/iBelieveCJM/pseudo_label-pytorch) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
-4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+2. Xie, Qizhe, et al. **"Self-training with noisy student improves imagenet classification."** Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Self-training+with+noisy+student+improves+imagenet+classification.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.pdf)  [[Code]](https://github.com/google-research/noisystudent)  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
-4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  ![](https://img.shields.io/badge/-active--learning-brightgreen)
+3. Liu, Yen-Cheng, et al. **"Unbiased teacher for semi-supervised object detection."**  arXiv preprint arXiv:2102.09480 (2021). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Unbiased+teacher+for+semi-supervised+object+detection&btnG=) [[Paper]](https://arxiv.org/pdf/2102.09480.pdf)  [[Code]](https://github.com/facebookresearch/unbiased-teacher)  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
+4. Tarvainen, Antti, and Harri Valpola. **"Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results."** Advances in neural information processing systems 30 (2017). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Mean+teachers+are+better+role+models%3A+Weightaveraged+consistency+targets+improve+semi-supervised+deep+learning+results&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2017/file/68053af2923e00204c3ca7c6a3150cf7-Paper.pdf)  [[Code]](https://github.com/CuriousAI/mean-teacher)  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+5. Zhou, Zhi-Hua. **"When semi-supervised learning meets ensemble learning."** Frontiers of Electrical and Electronic Engineering in China 6 (2011): 6-16. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=When+semi-supervised+learning+meets+ensemble+learning&btnG=) [[Paper]](https://link.springer.com/content/pdf/10.1007/s11460-011-0126-2.pdf)  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+6. Zhou, Zhi-Hua. **"Ensemble methods: foundations and algorithms."** CRC press, 2012. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Ensemble+methods%3A+foundations+and+algorithms&btnG=) [[Paper]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Ensemble+methods%3A+foundations+and+algorithms&btnG=)  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+
+4. Ren, Pengzhen, et al. **"A survey of deep active learning."** ACM computing surveys (CSUR) 54.9 (2021): 1-40. [[Google Scholar]]() [[Paper]]()  [[Code]]()  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
 ### 3.2 No supervision
    
