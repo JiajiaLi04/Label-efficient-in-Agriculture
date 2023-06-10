@@ -54,7 +54,7 @@ Find this repository helpful? 😊
 
 Please consider citing our paper. 👇👇👇
 
-*(**Note that the current version of our survey is only a draft, and we are still working on it.** The first readable version is arriving soon.)* 🚀
+*(**Note that the current version of our survey is only a draft, and we are still working on it.**)* 🚀
 
 ```
 @article{li2023label,
