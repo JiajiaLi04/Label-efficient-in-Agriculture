@@ -148,6 +148,9 @@ The following topics are included: ![](https://img.shields.io/badge/-active--lea
 
 14. Shen, Wei, et al.  **"A survey on label-efficient deep image segmentation: Bridging the gap between weak supervision and dense prediction. "**  IEEE Transactions on Pattern Analysis and Machine Intelligence (2023). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+survey+on+label-efficient+deep+image+segmentation%3A+Bridging+the+gap+between+weak+supervision+and+dense+prediction&btnG=) [[Paper]](https://arxiv.org/pdf/2207.01223.pdf) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)  ![](https://img.shields.io/badge/-unsupervised%20learning-red) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
+15. Foulds, James, and Eibe Frank. **"A review of multi-instance learning assumptions."** The knowledge engineering review 25.1 (2010): 1-25. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+review+of+multi-instance+learning+assumptions&btnG=) [[Paper]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0915098C83BF119A377015A45952247A/S026988890999035Xa.pdf/a-review-of-multi-instance-learning-assumptions.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+16. Carbonneau, Marc-André, et al. **"Multiple instance learning: A survey of problem characteristics and applications."** Pattern Recognition 77 (2018): 329-353. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Multiple+instance+learning%3A+A+survey+of+problem+characteristics+and+applications.&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320317304065?casa_token=-E9KP7nrtTcAAAAA:4Wy2HGEpGroKeBWYuquGPhMHkUgvdNJ1y-UmHA77oJPhWz5YWptMu_auRTE1m3VsiJ3OH_cFHpI) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 ## 3. 🗂️ Taxonomy
 
 In our paper, we divide the textual instructions into three categories.
@@ -195,7 +198,22 @@ In our paper, we divide the textual instructions into three categories.
 12. Liu, Xiao, et al. **"Random forest construction with robust semisupervised node splitting."** IEEE Transactions on Image Processing 24.1 (2014): 471-483. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Random+forest+construction+with+robust+semisupervised+node+splitting.&btnG=) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6975199&casa_token=PN8A1ZZ81gsAAAAA:NA_xF889mwDiaOe8Qjptvx-QbqcCYuTKpaPrWFUWxdcMQcEZbgTLcIUE109Fh2CqocHzGA9Gwco&tag=1) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
 #### 3.1.3 Weakly supervised learning
-1.
+1. Andrews, Stuart, Ioannis Tsochantaridis, and Thomas Hofmann. **"Support vector machines for multiple-instance learning."** Advances in neural information processing systems 15 (2002). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=+Support+vector+machines+for+multiple-instance+learning&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2002/file/3e6260b81898beacda3d16db379ed329-Paper.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+2. Wu, Jiajun, et al. **"Deep multiple instance learning for image classification and auto-annotation."** Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.  [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+multiple+instance+learning+for+image+classification+and+auto-annotation.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2015/html/Wu_Deep_Multiple_Instance_2015_CVPR_paper.html) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+3. Ilse, Maximilian, Jakub Tomczak, and Max Welling. **"Attention-based deep multiple instance learning."** International conference on machine learning. PMLR, 2018. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Attention-based+deep+multiple+instance+learning&btnG=) [[Paper]](http://proceedings.mlr.press/v80/ilse18a/ilse18a.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+3. Zhou, Bolei, et al. **"Learning deep features for discriminative localization."** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=learning+deep+features+for+discriminative+localization.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 ### 3.2 No supervision
    
 
