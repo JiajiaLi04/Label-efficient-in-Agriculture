@@ -204,19 +204,23 @@ In our paper, we divide the textual instructions into three categories.
 
 3. Ilse, Maximilian, Jakub Tomczak, and Max Welling. **"Attention-based deep multiple instance learning."** International conference on machine learning. PMLR, 2018. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Attention-based+deep+multiple+instance+learning&btnG=) [[Paper]](http://proceedings.mlr.press/v80/ilse18a/ilse18a.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
-3. Zhou, Bolei, et al. **"Learning deep features for discriminative localization."** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=learning+deep+features+for+discriminative+localization.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+4. Zhou, Bolei, et al. **"Learning deep features for discriminative localization."** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=learning+deep+features+for+discriminative+localization.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+5. Selvaraju, Ramprasaath R., et al. **"Grad-cam: Visual explanations from deep networks via gradient-based localization."** Proceedings of the IEEE international conference on computer vision. 2017. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Grad-cam%3A+Visual+explanations+from+deep+networks+via+gradientbased+localization&btnG=) [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
+6. Chattopadhay, Aditya, et al. **"Grad-cam++: Generalized gradient-based visual explanations for deep convolutional networks."** 2018 IEEE winter conference on applications of computer vision (WACV). IEEE, 2018. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Grad-cam%2B%2B%3A+Generalized+gradient-based+visual+explanations+for+deep+convolutional+networks&btnG=) [[Paper]](https://ieeexplore.ieee.org/document/8354201?denied=) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+7. Wang, Haofan, et al. "Score-CAM: Score-weighted visual explanations for convolutional neural networks." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops. 2020. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Score-cam%3A+Score-weighted+visual+explanations+for+convolutional+neural+networks&btnG=) [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w1/Wang_Score-CAM_Score-Weighted_Visual_Explanations_for_Convolutional_Neural_Networks_CVPRW_2020_paper.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
-
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 ### 3.2 No supervision
-   
+#### 3.2.1 Self-supervised learning   
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
 
 
