@@ -214,7 +214,17 @@ In our paper, we divide the textual instructions into three categories.
 
 ### 3.2 No supervision
 #### 3.2.1 Self-supervised learning   
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+1. Caron, Mathilde, et al. **"Deep clustering for unsupervised learning of visual features."** Proceedings of the European conference on computer vision (ECCV). 2018. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Deep+clustering+for+unsupervised+learning+of+visual+features.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+2. Yang, Jianwei, Devi Parikh, and Dhruv Batra. **"Joint unsupervised learning of deep representations and image clusters."** Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Joint+unsupervised+learning+of+deep+representations+and+image+clusters.&btnG=) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.pdf) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+3. Xie, Junyuan, Ross Girshick, and Ali Farhadi. **"Unsupervised deep embedding for clustering analysis."** International conference on machine learning. PMLR, 2016. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Unsupervised+deep+embedding+for+clustering+analysis&btnG=) [[Paper]](http://proceedings.mlr.press/v48/xieb16.pdf) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+4. Noroozi, Mehdi, et al. **"Boosting self-supervised learning via knowledge transfer."** Proceedings of the IEEE conference on computer vision and pattern recognition. 2018. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Boosting+selfsupervised+learning+via+knowledge+transfer.+&btnG=) [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Noroozi_Boosting_Self-Supervised_Learning_CVPR_2018_paper.pdf) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+5. Tian, Yonglong, Dilip Krishnan, and Phillip Isola. **"Contrastive multiview coding."** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XI 16. Springer International Publishing, 2020. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Contrastive+multiview+coding.&btnG=) [[Paper]](https://arxiv.org/pdf/1906.05849.pdf) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+1. Caron, Mathilde, et al. "Unsupervised learning of visual features by contrasting cluster assignments." Advances in neural information processing systems 33 (2020): 9912-9924. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Unsupervised+learning+of+visual+features+by+contrasting+cluster+assignments.+&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/70feb62b69f16e0238f741fab228fec2-Paper.pdf) [[Code]](https://github.com/facebookresearch/swav) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
 1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
@@ -222,6 +232,8 @@ In our paper, we divide the textual instructions into three categories.
 
 1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
 
 ## 4. 🤖 Applications
