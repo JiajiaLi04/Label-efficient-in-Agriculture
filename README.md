@@ -151,6 +151,11 @@ The following topics are included: ![](https://img.shields.io/badge/-active--lea
 15. Foulds, James, and Eibe Frank. **"A review of multi-instance learning assumptions."** The knowledge engineering review 25.1 (2010): 1-25. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+review+of+multi-instance+learning+assumptions&btnG=) [[Paper]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0915098C83BF119A377015A45952247A/S026988890999035Xa.pdf/a-review-of-multi-instance-learning-assumptions.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
 16. Carbonneau, Marc-André, et al. **"Multiple instance learning: A survey of problem characteristics and applications."** Pattern Recognition 77 (2018): 329-353. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Multiple+instance+learning%3A+A+survey+of+problem+characteristics+and+applications.&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320317304065?casa_token=-E9KP7nrtTcAAAAA:4Wy2HGEpGroKeBWYuquGPhMHkUgvdNJ1y-UmHA77oJPhWz5YWptMu_auRTE1m3VsiJ3OH_cFHpI) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
+
+17. Chicco, Davide. **"Siamese neural networks: An overview."** Artificial neural networks (2021): 73-94. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Siamese+neural+networks%3A+An+overview.&btnG=) [[Paper]](https://link.springer.com/protocol/10.1007/978-1-0716-0826-5_3) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+
+
 ## 3. 🗂️ Taxonomy
 
 In our paper, we divide the textual instructions into three categories.
@@ -224,16 +229,23 @@ In our paper, we divide the textual instructions into three categories.
 
 5. Tian, Yonglong, Dilip Krishnan, and Phillip Isola. **"Contrastive multiview coding."** Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XI 16. Springer International Publishing, 2020. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Contrastive+multiview+coding.&btnG=) [[Paper]](https://arxiv.org/pdf/1906.05849.pdf) [[Code]](https://github.com/HobbitLong/CMC/) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
-1. Caron, Mathilde, et al. "Unsupervised learning of visual features by contrasting cluster assignments." Advances in neural information processing systems 33 (2020): 9912-9924. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Unsupervised+learning+of+visual+features+by+contrasting+cluster+assignments.+&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/70feb62b69f16e0238f741fab228fec2-Paper.pdf) [[Code]](https://github.com/facebookresearch/swav) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+6. Caron, Mathilde, et al. **"Unsupervised learning of visual features by contrasting cluster assignments."** Advances in neural information processing systems 33 (2020): 9912-9924. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Unsupervised+learning+of+visual+features+by+contrasting+cluster+assignments.+&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/70feb62b69f16e0238f741fab228fec2-Paper.pdf) [[Code]](https://github.com/facebookresearch/swav) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+7. Chen, Ting, et al. **"A simple framework for contrastive learning of visual representations."** International conference on machine learning. PMLR, 2020. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+simple+framework+for+contrastive+learning+of+visual+representations&btnG=) [[Paper]](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf) [[Code]](https://github.com/google-research/simclr) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+8. Grill, Jean-Bastien, et al. "Bootstrap your own latent-a new approach to self-supervised learning." Advances in neural information processing systems 33 (2020): 21271-21284. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Bootstrap+your+own+latent-a+new+approach+to+self-supervised+learning&btnG=#d=gs_cit&t=1686511742030&u=%2Fscholar%3Fq%3Dinfo%3AUDYiz5Qo5EEJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den) [[Paper]](https://proceedings.neurips.cc/paper/2020/file/f3ada80d5c4ee70142b17b8192b2958e-Paper.pdf) [[Code]](https://github.com/deepmind/deepmind-research/tree/master/byol) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+9. Chen, Xinlei, and Kaiming He. "Exploring simple siamese representation learning." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Exploring+simple+siamese+representation+learning.&btnG=) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf) [[Code]](https://github.com/facebookresearch/simsiam) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+10. Zhuang, Chengxu, Alex Lin Zhai, and Daniel Yamins. "Local aggregation for unsupervised learning of visual embeddings." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
+ [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=+Local+aggregation+for+unsupervised+learning+of+visual+embeddings.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhuang_Local_Aggregation_for_Unsupervised_Learning_of_Visual_Embeddings_ICCV_2019_paper.pdf) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
+
+#### 3.2.2 Unsupervised representation learning   
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
+1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
 
 
 ## 4. 🤖 Applications
