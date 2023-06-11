@@ -154,6 +154,7 @@ The following topics are included: ![](https://img.shields.io/badge/-active--lea
 
 17. Chicco, Davide. **"Siamese neural networks: An overview."** Artificial neural networks (2021): 73-94. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Siamese+neural+networks%3A+An+overview.&btnG=) [[Paper]](https://link.springer.com/protocol/10.1007/978-1-0716-0826-5_3) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
+18. Aljalbout, Elie, et al. **"Clustering with deep learning: Taxonomy and new methods."** arXiv preprint arXiv:1801.07648 (2018). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=+Clustering+with+deep+learning%3A+Taxonomy+and+new+methods&btnG=) [[Paper]](https://arxiv.org/pdf/1801.07648.pdf].) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
 
 
 ## 3. 🗂️ Taxonomy
@@ -241,12 +242,9 @@ In our paper, we divide the textual instructions into three categories.
  [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=+Local+aggregation+for+unsupervised+learning+of+visual+embeddings.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhuang_Local_Aggregation_for_Unsupervised_Learning_of_Visual_Embeddings_ICCV_2019_paper.pdf) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
 #### 3.2.2 Unsupervised representation learning   
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
-1.  [[Google Scholar]]() [[Paper]]() ![](https://img.shields.io/badge/-unsupervised%20learning-red)
+1. Arthur, David, and Sergei Vassilvitskii. **"K-means++ the advantages of careful seeding."** Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. 2007. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=K-means%2B%2B+the+advantages+of+careful+seeding&btnG=) [[Paper]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=K-means%2B%2B+the+advantages+of+careful+seeding&btnG=) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
 
+2. Yang, Jianwei, Devi Parikh, and Dhruv Batra. "Joint unsupervised learning of deep representations and image clusters." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Joint+unsupervised+learning+of+deep+representations+and+image+clusters&btnG=) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.pdf) [[Code]](https://github.com/jwyang/JULE.torch) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
 
 ## 4. 🤖 Applications
 
