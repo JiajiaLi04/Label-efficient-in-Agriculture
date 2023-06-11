@@ -356,7 +356,7 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
 
 19. Wang, Yi, and Lihong Xu. **"Unsupervised segmentation of greenhouse plant images based on modified Latent Dirichlet Allocation."** PeerJ 6 (2018): e5036. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=%22Unsupervised+segmentation+of+greenhouse+plant+images+based+on+modified+latent+dirichlet+allocation%22&btnG=) [[Paper]](https://peerj.com/articles/5036/) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
 
-20. Zhang, Ping, and Lihong Xu. **"Unsupervised segmentation of greenhouse plant images based on statistical method."** Scientific reports 8.1 (2018): 1-13. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Unsupervised+segmentation+of+greenhouse+plant+images+based+on+statistical+method&btnG=) [[Paper]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://link.springer.com/content/pdf/10.1038/s41598-018-22568-3.pdf) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
+20. Zhang, Ping, and Lihong Xu. **"Unsupervised segmentation of greenhouse plant images based on statistical method."** Scientific reports 8.1 (2018): 1-13. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Unsupervised+segmentation+of+greenhouse+plant+images+based+on+statistical+method&btnG=) [[Paper]](https://link.springer.com/content/pdf/10.1038/s41598-018-22568-3.pdf) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
 
 
 ### 4.6 Postharvest quality assessment
