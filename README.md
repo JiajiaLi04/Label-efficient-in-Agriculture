@@ -248,6 +248,8 @@ In our paper, we divide the textual instructions into three categories.
 
 2. Yang, Jianwei, Devi Parikh, and Dhruv Batra. "Joint unsupervised learning of deep representations and image clusters." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Joint+unsupervised+learning+of+deep+representations+and+image+clusters&btnG=) [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.pdf) [[Code]](https://github.com/jwyang/JULE.torch) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
 
+3. Ji, Zeguang, et al. "SEDLNet: An unsupervised precise lightweight extraction method for farmland areas." Computers and Electronics in Agriculture 210 (2023): 107886.  [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=SEDLNet%3A+An+unsupervised+precise+lightweight+extraction+method+for+farmland+areas&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923002740)
+
 ## 4. 🤖 Applications
 
 ### 4.1 Plant health
