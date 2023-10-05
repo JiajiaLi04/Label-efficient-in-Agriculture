@@ -203,6 +203,8 @@ In our paper, we divide the textual instructions into three categories.
 
 12. Liu, Xiao, et al. **"Random forest construction with robust semisupervised node splitting."** IEEE Transactions on Image Processing 24.1 (2014): 471-483. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Random+forest+construction+with+robust+semisupervised+node+splitting.&btnG=) [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6975199&casa_token=PN8A1ZZ81gsAAAAA:NA_xF889mwDiaOe8Qjptvx-QbqcCYuTKpaPrWFUWxdcMQcEZbgTLcIUE109Fh2CqocHzGA9Gwco&tag=1) ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
+13. Fu, Yinkai, et al. **"Semi-supervised segmentation of multi-scale soil pores based on a novel receptive field structure."** Computers and Electronics in Agriculture 212 (2023): 108071. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Semi-supervised+segmentation+of+multi-scale+soil+pores+based+on+a+novel+receptive+field+structure&btnG=)  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923004593)
+
 #### 3.1.3 Weakly supervised learning
 1. Andrews, Stuart, Ioannis Tsochantaridis, and Thomas Hofmann. **"Support vector machines for multiple-instance learning."** Advances in neural information processing systems 15 (2002). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=+Support+vector+machines+for+multiple-instance+learning&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2002/file/3e6260b81898beacda3d16db379ed329-Paper.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
