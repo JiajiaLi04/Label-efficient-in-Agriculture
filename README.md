@@ -35,7 +35,7 @@ We aim to stay up-to-date with the most innovative developments in the field and
 
 If you have any suggestions or find any missed papers, feel free to reach out or submit a [pull request](https://github.com/DongChen06/Label-efficient-in-Agriculture/pulls):
 
-1. Use following markdown format.
+1. Use the following markdown format.
 
 ```markdown
 *Author 1, Author 2, and Author 3.* **Paper Title.**  <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
@@ -50,7 +50,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 <!-- omit in toc -->
 ## Citation
 
-Find this repository helpful? 😊  
+Is this repository helpful? 😊  
 
 Please consider citing our paper. 👇👇👇
 
@@ -65,7 +65,8 @@ Please consider citing our paper. 👇👇👇
 }
 ```
 
-<!-- TODO: add survey citation and link -->
+## New papers
+- Najafian, Keyhan, Alireza Ghanbari, Mahdi Sabet Kish, Mark Eramian, Gholam Hassan Shirdel, Ian Stavness, Lingling Jin, and Farhad Maleki. "Semi-self-supervised learning for semantic segmentation in images with dense patterns." Plant Phenomics 5 (2023): 0025.
 
 <!-- omit in toc -->
 ## 🔍 Table of Contents 
