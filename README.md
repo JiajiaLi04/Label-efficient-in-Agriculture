@@ -54,14 +54,15 @@ Is this repository helpful? 😊
 
 Please consider citing our paper. 👇👇👇
 
-*(**Note that the current version of our survey is only a draft, and we are still working on it.**)* 🚀
-
 ```
 @article{li2023label,
-  title={Label-Efficient Learning in Agriculture: A Comprehensive Review},
+  title={Label-efficient learning in agriculture: A comprehensive review},
   author={Li, Jiajia and Chen, Dong and Qi, Xinda and Li, Zhaojian and Huang, Yanbo and Morris, Daniel and Tan, Xiaobo},
-  journal={arXiv preprint arXiv:2305.14691},
-  year={2023}
+  journal={Computers and Electronics in Agriculture},
+  volume={215},
+  pages={108412},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
 
