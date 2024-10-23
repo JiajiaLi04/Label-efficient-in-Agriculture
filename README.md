@@ -245,6 +245,8 @@ In our paper, we divide the textual instructions into three categories.
 10. Zhuang, Chengxu, Alex Lin Zhai, and Daniel Yamins. "Local aggregation for unsupervised learning of visual embeddings." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
  [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=+Local+aggregation+for+unsupervised+learning+of+visual+embeddings.&btnG=) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhuang_Local_Aggregation_for_Unsupervised_Learning_of_Visual_Embeddings_ICCV_2019_paper.pdf) ![](https://img.shields.io/badge/-self--supervised%20leaning-blue)
 
+11. Gao, Yangmingrui, Yinglun Li, Ruibo Jiang, Xiaohai Zhan, Hao Lu, Wei Guo, Wanneng Yang, Yanfeng Ding, and Shouyang Liu. "Enhancing green fraction estimation in rice and wheat crops: a self-supervised deep learning semantic segmentation approach." Plant Phenomics 5 (2023): 0064.
+
 #### 3.2.2 Unsupervised representation learning   
 1. Arthur, David, and Sergei Vassilvitskii. **"K-means++ the advantages of careful seeding."** Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete algorithms. 2007. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=K-means%2B%2B+the+advantages+of+careful+seeding&btnG=) [[Paper]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=K-means%2B%2B+the+advantages+of+careful+seeding&btnG=) ![](https://img.shields.io/badge/-unsupervised%20learning-red)
 
