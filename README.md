@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Awesome Label-Efficient Learning in Agricutlture: A Comprehensive Review
+# Awesome Label-Efficient Learning in Agriculture: A Comprehensive Review
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/DongChen06/Label-efficient-in-Agriculture
@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/github/last-commit/DongChen06/Label-efficient-in-Agriculture?color=#00FA9A) ![](https://img.shields.io/badge/PaperNumber-70-blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-A curated list of awesome **Label-efficient Learning in Agricutlture** papers 🔥🔥🔥. 
+A curated list of awesome **Label-efficient Learning in Agriculture** papers 🔥🔥🔥. 
 
 Currently maintained by <ins>[Jiajia Li](xx) @ MSU</ins> and <ins>[Dong Chen](https://scholar.google.com/citations?user=dwvTqeUAAAAJ&hl=en) @ MSU</ins>. 
 
@@ -322,6 +322,8 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
 7. Bellocchio, Enrico, et al. **"Weakly supervised fruit counting for yield estimation using spatial consistency."** IEEE Robotics and Automation Letters 4.3 (2019): 2348-2355. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Weakly+Supervised+Fruit+Counting+for+Yield+Estimation+Using+Spatial+Consistency&btnG=) [[Paper]](https://ieeexplore.ieee.org/abstract/document/8661632?casa_token=JCFKLG19GCwAAAAA:TRJtK24bhVT51_jKh3pODODsooRuiimzF_6uKq7LbgmuyFtVkKv_q7gAsoTKcdfTdgGyfMTSQ5M) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
 8. Roy, Pravakar, et al. **"Vision-based preharvest yield mapping for apple orchards."** Computers and Electronics in Agriculture 164 (2019): 104897. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Vision-based+preharvest+yield+mapping+for+apple+orchards&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169919303436?casa_token=0cpG4d1hc50AAAAA:LysqbihEr3zY5-2Ub7zl878HhgwHCQgzOt5wysTou9B1bKXdXxxkkcr2rZBVXgfku30onUkaCZE)  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
+
+9. Zhang, Wenli, Chao Zheng, Chenhuizi Wang, and Wei Guo. **"DomAda-FruitDet: Domain-Adaptive Anchor-Free Fruit Detection Model for Auto Labeling."** Plant Phenomics 6 (2024): 0135.
 
 ### 4.4 Aquaculture
 1. Kong, Qingchen, et al. **"A recurrent network based on active learning for the assessment of fish feeding status."** Computers and Electronics in Agriculture 198 (2022): 106979. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+recurrent+network+based+on+active+learning+for+the+assessment+of+fish+feeding+status&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922002964?casa_token=3sEdz3v21LgAAAAA:Xt0sn8l-FcWHyTSPuTPg-zR1nIkH59hhu0yl2uju8z2kDi2yjGVYfIo-egNbffOruatbiO4C6Qw)  ![](https://img.shields.io/badge/-active--learning-brightgreen)
