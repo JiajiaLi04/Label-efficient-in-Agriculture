@@ -306,6 +306,8 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
 
 9. Pérez-Ortiz, Maria, et al. **"A semi-supervised system for weed mapping in sunflower crops using unmanned aerial vehicles and a crop row detection method."** Applied Soft Computing 37 (2015): 533-544. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=A+semi-supervised+system+for+weed+mapping+in+sunflower+crops+using+unmanned+aerial+vehicles+and+a+crop+row+detection+method&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S1568494615005281?casa_token=Kx34E34LQjUAAAAA:MzVxJgy_iDyIVXTrpkUPy6amDT2IDNiDimhakt0gc8CObSyUb1fpvEZkrz5eZP-EAoUiCtbaLrE)  ![](https://img.shields.io/badge/-semi--supervised%20learning-yellow)
 
+10. Zhang, Jianlin, Xiangyu Lu, Rui Yang, Hongxing Xu, Yan Huai, and Fei Liu. **"Weakly supervised dual-mask marginal segmentation and variable path planning method for bean weed based on UAV remote sensing."** Computers and Electronics in Agriculture 230 (2025): 109786.
+
 ### 4.3 Fruit detection
 1. Ciarfuglia, Thomas A., et al. **"Weakly and semi-supervised detection, segmentation and tracking of table grapes with limited and noisy data."** Computers and Electronics in Agriculture 205 (2023): 107624. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Weakly+and+Semi-Supervised+Detection%2C+Segmentation+and+Tracking+of+Table+Grapes+with+Limited+and+Noisy+Data&btnG=) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923000121)  ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
