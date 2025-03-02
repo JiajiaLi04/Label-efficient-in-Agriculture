@@ -67,6 +67,7 @@ Please consider citing our paper. 👇👇👇
 ```
 
 ## New papers
+- Zhang, Jianlin, Xiangyu Lu, Rui Yang, Hongxing Xu, Yan Huai, and Fei Liu. "Weakly supervised dual-mask marginal segmentation and variable path planning method for bean weed based on UAV remote sensing." Computers and Electronics in Agriculture 230 (2025): 109786.
 - Guo, Zhiming, Yi Xue, Chuan Wang, Yuhang Geng, Ruoyu Lu, Hailong Li, Deng Sun et al. "Efficient weed segmentation in maize fields: A semi-supervised approach for precision weed management with reduced annotation overhead." Computers and Electronics in Agriculture 229 (2025): 109707.
 - Najafian, Keyhan, Alireza Ghanbari, Mahdi Sabet Kish, Mark Eramian, Gholam Hassan Shirdel, Ian Stavness, Lingling Jin, and Farhad Maleki. "Semi-self-supervised learning for semantic segmentation in images with dense patterns." Plant Phenomics 5 (2023): 0025.
 
