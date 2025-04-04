@@ -209,6 +209,8 @@ In our paper, we divide the textual instructions into three categories.
 
 13. Fu, Yinkai, et al. **"Semi-supervised segmentation of multi-scale soil pores based on a novel receptive field structure."** Computers and Electronics in Agriculture 212 (2023): 108071. [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=Semi-supervised+segmentation+of+multi-scale+soil+pores+based+on+a+novel+receptive+field+structure&btnG=)  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923004593)
 
+14. Deng, Boyang, and Yuzhen Lu. "Semi-Supervised Weed Detection in Vegetable Fields: In-domain and Cross-domain Experiments." arXiv preprint arXiv:2502.17673 (2025). [[Google Scholar]](https://scholar.google.com/scholar_lookup?arxiv_id=2502.17673)  [[Paper]](https://arxiv.org/abs/2502.17673)
+
 #### 3.1.3 Weakly supervised learning
 1. Andrews, Stuart, Ioannis Tsochantaridis, and Thomas Hofmann. **"Support vector machines for multiple-instance learning."** Advances in neural information processing systems 15 (2002). [[Google Scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=+Support+vector+machines+for+multiple-instance+learning&btnG=) [[Paper]](https://proceedings.neurips.cc/paper/2002/file/3e6260b81898beacda3d16db379ed329-Paper.pdf) ![](https://img.shields.io/badge/-weakly%20supervised%20leaning-orange)
 
